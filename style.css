@@ -2,3 +2,34 @@ p {
 	font-family: Arial;
 	color: red;
 }
+#pale{
+  background-color: paleturquoise;
+  color: slateblue;
+  font-weight: bold;
+}
+#green{
+  background-color: green;
+  color:white;
+  font-weight: bold;
+}
+#red{
+ background-color: red;
+  font-weight: bold;
+}
+#koala{
+  background-color: cornsilk;
+  color: grey;
+  font-weight: bold;
+}
+#dog{
+background-color:orange;
+ font-weight: bold;
+ color:blue;
+}
+#cat{
+  background-color: darkseagreen;
+  color:deeppink;
+   font-weight: bold;
+}
+#animal{
+  background-color:PapayaWhip;
